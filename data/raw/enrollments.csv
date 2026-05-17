@@ -1,0 +1,11 @@
+enrollment_id,user_id,course_id,status,enrollment_date,completion_date
+E001,U001,C001,completed,2026-01-01,2026-01-05
+E002,U002,C002,in_progress,2026-01-02,
+E003,U003,C003,completed,2026-01-03,2026-01-10
+E004,U004,C004,completed,2026-01-04,2026-01-08
+E005,U005,C005,in_progress,2026-01-05,
+E006,U006,C006,completed,2026-01-06,2026-01-15
+E007,U007,C007,completed,2026-01-07,2026-01-14
+E008,U008,C008,in_progress,2026-01-08,
+E009,U009,C003,completed,2026-01-09,2026-01-18
+E010,U010,C001,completed,2026-01-10,2026-01-12
