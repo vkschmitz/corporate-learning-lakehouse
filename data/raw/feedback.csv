@@ -1,0 +1,6 @@
+feedback_id,user_id,course_id,rating,comment,submitted_at
+F001,U001,C001,5,Very useful course,2026-01-05
+F002,U003,C003,4,Great Databricks introduction,2026-01-10
+F003,U004,C004,5,Excellent Power BI content,2026-01-08
+F004,U006,C006,5,Advanced and practical material,2026-01-15
+F005,U009,C003,4,Good learning experience,2026-01-18
