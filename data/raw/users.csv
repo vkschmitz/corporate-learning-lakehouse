@@ -1,0 +1,11 @@
+user_id,name,department,persona,country,created_at
+U001,Ana Silva,Finance,Executive,Brazil,2026-01-01
+U002,Bruno Lima,Operations,Business Analyst,Brazil,2026-01-02
+U003,Carla Souza,Technology,Data Analyst,Brazil,2026-01-03
+U004,Daniel Costa,People,Manager,Brazil,2026-01-04
+U005,Fernanda Rocha,Marketing,Coordinator,Brazil,2026-01-05
+U006,Gabriel Souza,Technology,Data Engineer,Brazil,2026-01-06
+U007,Juliana Lima,Finance,Specialist,Brazil,2026-01-07
+U008,Lucas Pereira,Operations,Supervisor,Brazil,2026-01-08
+U009,Mariana Alves,Technology,Analytics Engineer,Brazil,2026-01-09
+U010,Rafael Martins,People,HR Business Partner,Brazil,2026-01-10
