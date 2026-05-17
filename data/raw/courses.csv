@@ -1,0 +1,9 @@
+course_id,course_name,track,level,duration_hours,language,created_at
+C001,Data Literacy Foundations,Data Literacy,Beginner,2,Portuguese,2026-01-01
+C002,AI Enablement Basics,AI Enablement,Beginner,3,Portuguese,2026-01-02
+C003,Databricks Fundamentals,Databricks,Intermediate,4,English,2026-01-03
+C004,Power BI Essentials,BI & Analytics,Beginner,3,Portuguese,2026-01-04
+C005,Prompt Engineering Fundamentals,AI Enablement,Intermediate,2,English,2026-01-05
+C006,Analytics Engineering Concepts,Analytics Engineering,Advanced,5,English,2026-01-06
+C007,Azure Data Platform,Cloud & Data,Intermediate,4,English,2026-01-07
+C008,Corporate AI Governance,AI Governance,Advanced,3,Portuguese,2026-01-08
