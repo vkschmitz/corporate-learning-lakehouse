@@ -20,6 +20,8 @@ The notebooks are organized by responsibility and analytical layer to simulate a
 | 07_semantic_metric_views | Semantic layer and reusable metric views for BI and AI |
 | 08_observability_metrics | Pipeline observability, monitoring and operational metrics |
 | 09_serving_sql_queries | SQL serving layer for dashboards, BI tools and analytical consumption |
+| 10_genie_ai_space | Conversational AI analytics and Databricks Genie integration |
+| 11_dashboard_design | Dashboard architecture, visualization strategy and executive analytics design |
 
 ---
 
@@ -37,3 +39,5 @@ Gold KPIs
 Semantic Views
         ↓
 Dashboards / SQL Serving / AI Consumption
+        ↓
+Genie AI / Conversational Analytics
